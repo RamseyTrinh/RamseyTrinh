@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RamseyTrinh
-- 👀 I’m interested in playing girls
+- 👀 I’m interested in playing boys
 - 🌱 I’m currently learning THE PROGRAMME OF COMPUTER NETWORKS
 AND DATA COMMUNICATIONS
 - 💞️ I’m looking to collaborate on ...
