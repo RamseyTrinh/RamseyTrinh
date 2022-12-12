@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RamseyTrinh
+- 👋 Hi, I’m Trinh
 - 👀 I’m interested in sleeping
 - 💞️ Call me 0394836338 if necessary
 
