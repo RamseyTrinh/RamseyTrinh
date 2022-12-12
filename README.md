@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @RamseyTrinh
-- 👀 I’m interested in playing boys
-- 🌱 I’m currently learning THE PROGRAMME OF COMPUTER NETWORKS
-AND DATA COMMUNICATIONS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in sleeping
+- 💞️ Call me 0394836338 if necessary
 
 <!---
 RamseyTrinh/RamseyTrinh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
