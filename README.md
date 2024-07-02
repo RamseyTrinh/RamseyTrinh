@@ -7,7 +7,7 @@
     Contact:</h3>
 
 - 💞️ Phone number: 0394836338
-<img align="right" alt="Coder GIF" height=273 width=229 src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif"/>
+
 - Email: hoangkmhd190@gmail.com
 
 <h3 align="left">Languages and Tools:</h3><p align="left">
@@ -36,6 +36,7 @@
     <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
     </a>
+        <img align="right" alt="Coder GIF" height=273 width=229 src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif"/>
     <a href="https://www.openai.com/chatgpt" target="_blank" rel="noreferrer" >
         <img src="https://seeklogo.com/images/C/chatgpt-logo-02AFA704B5-seeklogo.com.png" alt="chatgpt" width="40" height="40"/>
     </a>
