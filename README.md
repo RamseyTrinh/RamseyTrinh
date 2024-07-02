@@ -10,7 +10,8 @@
 
 - Email: hoangkmhd190@gmail.com
 
-<h3 align="left">Languages and Tools:</h3><p align="left">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
     <p align="left">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -41,15 +42,12 @@
     </a>
 </p>
 <img align="right" alt="Coder GIF" height=273 width=229 src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif"/>
+
+
 <h3 align="left">Excapade:</h3><p align="left">
 
+
 <p align="left">
-    <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
-    </a>
-    <a href="https://www.openai.com/chatgpt" target="_blank" rel="noreferrer">
-        <img src="https://seeklogo.com/images/C/chatgpt-logo-02AFA704B5-seeklogo.com.png" alt="chatgpt" width="40" height="40"/>
-    </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
     </a>
@@ -65,8 +63,10 @@
     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
     </a>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
+    </a>
 </p>
-
 
 <!---
 RamseyTrinh/RamseyTrinh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
