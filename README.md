@@ -41,7 +41,7 @@
         <img src="https://seeklogo.com/images/C/chatgpt-logo-02AFA704B5-seeklogo.com.png" alt="chatgpt" width="40" height="40"/>
     </a>
 </p>
-<img align="center" alt="Coder GIF" height=273 width=229 src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif"/>
+<img align="right" alt="Coder GIF" height=273 width=229 src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif"/>
 
 
 <h3 align="left">Excapade:</h3><p align="left">
