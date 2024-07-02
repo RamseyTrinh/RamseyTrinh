@@ -3,7 +3,7 @@
 - Email:
       + For private: hoangkmhd190@gmail.com
 
-- https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif
+<img alt="Coder GIF" height=250 width=350 src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif"/>
 
 <!---
 RamseyTrinh/RamseyTrinh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
