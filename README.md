@@ -2,12 +2,12 @@
 <h2 align="center">I'm Trinh Xuan Hoang</h2>
 <h3 align="center">A lỏ coder from UET-VNU</h3>
 <img align="right" alt="cat" src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif"/>
-<img align="right" alt="Coder GIF" height=273 width=229 src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif"/>
+
 <h3 align="left"> <img width=30 height=30 src="https://user-images.githubusercontent.com/74038190/212262208-6e0cbfcb-1965-4b5e-9625-fee0a5d172d3.jpg"/>
     Contact:</h3>
 
 - 💞️ Phone number: 0394836338
-
+<img align="right" alt="Coder GIF" height=273 width=229 src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif"/>
 - Email: hoangkmhd190@gmail.com
 
 <h3 align="left">Languages and Tools:</h3><p align="left">
