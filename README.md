@@ -1,9 +1,9 @@
-<h1 align="center"><img width=50 height=50 src="https://user-images.githubusercontent.com/74038190/212262208-6e0cbfcb-1965-4b5e-9625-fee0a5d172d3.jpg"/>        Welcome to my github        <img width=50 height=50 src="https://user-images.githubusercontent.com/74038190/212262208-6e0cbfcb-1965-4b5e-9625-fee0a5d172d3.jpg"/></h1>
-<h2 align="center">Trinh Xuan Hoang</h2>
+<h1 align="center"> 👋👋Welcome to my github!</h1>
+<h2 align="center">I'm Trinh Xuan Hoang</h2>
 <h3 align="center">A lỏ coder from UET-VNU</h3>
 <img align="right" alt="Hacking" src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif"/>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <img width=30 height=30 src="https://user-images.githubusercontent.com/74038190/212262208-6e0cbfcb-1965-4b5e-9625-fee0a5d172d3.jpg"/></h3>
 
 - 💞️ Phone number: 0394836338
 
